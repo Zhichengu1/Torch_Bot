@@ -10,6 +10,7 @@ This project focuses on building an AI chatbot that leverages **PyTorch** for na
 - **Outcome Predictions**: The bot responds to user input by analyzing the text using machine learning models trained with PyTorch. It identifies certain patterns in user data and predicts the next possible steps, enhancing the conversation flow.
 
 ### Under Development:
+- **Basic Sentence Recognition**: Currently under development.
 - **Task Optimization**: Currently under development, the bot will be able to identify and categorize tasks provided by the user, creating an optimized schedule for short-term tasks based on priority and time constraints.
   
 - **Basic Prediction Model**: The bot will be able to predict the next possible action based on a recognized pattern in the user input. This functionality is still being fine-tuned to accurately predict and improve interactions.
