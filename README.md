@@ -1,7 +1,11 @@
 # Torch Bot using React and Flask
 
 This project focuses on building an AI chatbot that leverages **PyTorch** for natural language processing (NLP). The application is structured with a **React** frontend and a **Flask** backend, providing a dynamic and interactive user experience.
+# Version 1
+
 ![Bot Outlook](assets/bot.png)
+
+This is **Version 1** of the Torch Bot, which focuses on the initial phase of processing user input. In this version, the bot converts text tokens into numerical representations, which are then used to train the underlying model. This tokenization step is crucial for enabling the model to understand and process user input in a way that supports meaningful interactions.
 
 ## Features:
 - **Basic Sentence Recognition**: The bot is capable of recognizing simple sentence patterns and processing them for appropriate responses.
