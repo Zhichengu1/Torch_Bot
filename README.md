@@ -1,6 +1,6 @@
 # Torch Bot using React and Flask
 
-This project focuses on building an AI chatbot that leverages **PyTorch** for natural language processing (NLP). The application is structured with a **React** frontend and a **Flask** backend, providing a dynamic and interactive user experience.
+This project focuses on building an Torch chatbot that leverages **PyTorch** for natural language processing (NLP). The application is structured with a **React** frontend and a **Flask** backend, providing a dynamic and interactive user experience.
 # Version 1
 
 ![Bot Outlook](assets/bot.png)
