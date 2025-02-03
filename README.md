@@ -5,7 +5,7 @@ This project focuses on building an AI chatbot that leverages **PyTorch** for na
 ## Features:
 - **Basic Sentence Recognition**: The bot is capable of recognizing simple sentence patterns and processing them for appropriate responses.
 
-- **Alert System**: The Flask server handles API requests and processes the user's inputs. If the user sends a list of tasks in string format, the bot will distinguish and optimize the tasks to create a schedule for a short task system. 
+- **Short Task Alert System**: The Flask server handles API requests and processes the user's inputs. If the user sends a list of tasks in string format, the bot will distinguish and optimize the tasks to create a schedule for a short task system. 
 
 - **Outcome Predictions**: The bot responds to user input by analyzing the text using machine learning models trained with PyTorch. It identifies certain patterns in user data and predicts the next possible steps, enhancing the conversation flow.
 
