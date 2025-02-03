@@ -1,16 +1,3 @@
-# Getting Started with Create React App
+# Brief Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+ This project involves the development of an AI chatbot that utilizes PyTorch for natural language processing (NLP) and is integrated with a React frontend and a Flask backend. The React application serves as the user interface, providing an interactive experience where users can chat with the bot in real-time. The Flask backend handles API requests, processes the inputs using PyTorch-based models for word recognition, and sends the bot's responses back to the frontend. The combination of React and Flask ensures a seamless connection between the user interface and the AI-powered backend, enabling smooth, dynamic interactions.
